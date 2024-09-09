@@ -1,5 +1,5 @@
 import unittest
-from payment_module.processor import PaymentProcessor
+from modules.processor import PaymentProcessor
 
 class TestPaymentProcessor(unittest.TestCase):
     def setUp(self):
